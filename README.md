@@ -1,4 +1,4 @@
-# Animation Clock
+# 3D cube
 - HTML5
 - Css3
 - can you view [my Project](https://toshpulatovalimardon.github.io/3D-cube/)
